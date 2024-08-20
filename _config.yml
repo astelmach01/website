@@ -16,6 +16,8 @@ url                      : "https://andrew-stelmach.com" # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "astelmach01/website"
 
+github: [metadata]
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -45,6 +47,8 @@ author:
   github           : "astelmach01"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+
 
   # Social media
   bluesky          : 
